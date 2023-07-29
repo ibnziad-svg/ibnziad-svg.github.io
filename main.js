@@ -25,6 +25,4 @@ function setUserName() {
     setUserName();
   })
 
-/*let a = `salut
-hjjjj`
-*/
+
